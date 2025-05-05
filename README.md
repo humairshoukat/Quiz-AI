@@ -1,6 +1,6 @@
 # EdTech - Quiz Generation for Educational Content
 
-![alt text](images/image.png)
+![alt text](images/thumbnail.png)
 
 ## AI quiz generator, mixure of AI teacher for quiz creation and AI evaluator for generated quiz according to the selected grade of the students. Built using Python, LangChain, OpenAI API, and Streamlit.
 
